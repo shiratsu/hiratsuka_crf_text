@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 
 import MeCab
+import os
+import glob
 
 mecab = MeCab.Tagger ('-d /usr/local/lib/mecab/dic/mecab-ipadic-neologd')
 mecab.parse('')
@@ -20,24 +22,32 @@ def makePreCrfData(mecab,sentence):
 
     return arySentence
 
+# ディレクトリのファイル一覧を取得
+filelist = glob.glob('sentence_txt/*')
+for strfile in filelist:
 
-# 形態素解析して、それをファイルに書き込み
-with open('all_sentence.txt','r') as f:
+    # ファイル名を分割
+    aryFile = strfile.split(".")
 
-    aryAllSentenceFeature = []
+    # 書き込み用のファイル名を定義
+    strWriteFile = aryFile[0]+"_feature.txt"
 
-    lines = f.readlines()
+    # 形態素解析して、それをファイルに書き込み
+    with open(strfile,'r') as f:
 
-    for line in lines:
-        if line != None:
-            arySentenceFeature = makePreCrfData(mecab,line)
-            aryAllSentenceFeature = aryAllSentenceFeature+arySentenceFeature
-    print(aryAllSentenceFeature)
+        aryAllSentenceFeature = []
 
-    with open('all_sentence_feature.txt','w') as f:
-        aryFeature = []
-        for arySentenceFeature in aryAllSentenceFeature:
-            strLine = "\t".join(arySentenceFeature)
-            aryFeature.append(strLine)
-        
-        fw.write('\n'.join(aryFeature))
+        lines = f.readlines()
+
+        for line in lines:
+            if line != None:
+                arySentenceFeature = makePreCrfData(mecab,line)
+                aryAllSentenceFeature = aryAllSentenceFeature+arySentenceFeature
+
+        with open(strWriteFile,'w') as fw:
+            aryFeature = []
+            for arySentenceFeature in aryAllSentenceFeature:
+                strLine = "\t".join(arySentenceFeature)
+                aryFeature.append(strLine)
+            
+            fw.write('\n'.join(aryFeature))
