@@ -753,4105 +753,4105 @@
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 がつ	副詞	一般	*	*	*	*	がつ	ガツ	ガツ
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 に	助詞	格助詞	一般	*	*	*	に	ニ	ニ
-	B-DATE
+	I-DATE
 ち	動詞	自立	*	*	五段・ラ行	体言接続特殊２	ちる	チ	チ
+	I-DATE
+1	名詞	数	*	*	*	*	*
+	B-DATE
+/	記号	一般	*	*	*	*	*
+	I-DATE
+1	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
-1	名詞	数	*	*	*	*	*
-	B-DATE
-1	名詞	数	*	*	*	*	*
-	B-DATE
-/	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 3/3	名詞	固有名詞	人名	一般	*	*	3/3	サンブンノサン	サンブンノサン
@@ -4859,157 +4859,157 @@
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 3/3	名詞	固有名詞	人名	一般	*	*	3/3	サンブンノサン	サンブンノサン
@@ -5023,13 +5023,13 @@
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 4/3	名詞	固有名詞	一般	*	*	*	4/3	フォーサーズ	フォーサーズ
@@ -5037,31 +5037,31 @@
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 4/9	名詞	固有名詞	人名	一般	*	*	4/9	フォーク	フォーク
@@ -5069,121 +5069,121 @@
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 4/3	名詞	固有名詞	一般	*	*	*	4/3	フォーサーズ	フォーサーズ
@@ -5197,1487 +5197,1487 @@
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 1	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 2	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 3	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 4	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 5	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 6	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 7	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 8	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 9	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 10	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 11	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 13	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 14	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 15	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 16	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 17	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 18	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 19	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 20	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 21	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 22	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 23	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 24	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 25	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 26	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 27	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 28	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 29	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 30	名詞	数	*	*	*	*	*
 	B-DATE
 12	名詞	数	*	*	*	*	*
 	B-DATE
 /	記号	一般	*	*	*	*	*
-	B-DATE
+	I-DATE
 31	名詞	数	*	*	*	*	*	B-DATE

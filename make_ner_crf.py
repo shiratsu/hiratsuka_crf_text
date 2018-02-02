@@ -12,6 +12,7 @@ filelist = glob.glob('sentence_txt/*feature.txt')
 
 for strfile in filelist:
 
+    # 分類をした後に入れる箱を定義
     aryUpdateFeature = []
 
     # ファイル名を分割
@@ -19,6 +20,8 @@ for strfile in filelist:
 
     # 書き込み用のファイル名を定義
     strWriteFile = aryFile[0]+"_ner.txt"
+    
+    print(strfile)
     
     # ファイルを開く
     with open(strfile,'r') as f:
@@ -30,16 +33,26 @@ for strfile in filelist:
 
             strWord = aryLine[0]
 
-            if strfile.find('date'):
+            if strfile.find('date') != -1:
+                #print(strWord)
                 aryLine.append('B-DATE')
-            elif strfile.find('day') or strfile.find('month') or strfile.find('year'):
+            
+            elif strfile.find('day') != -1 or strfile.find('month') != -1 or strfile.find('year') != -1:
+                
+                #print(strWord)
                 if strWord not in ['がつ','/','に','ち']:
                     aryLine.append('B-DATE')
                 else:
+                    print("--------------------------")
+                    print("I-DATE")
+                    print(strWord)
                     aryLine.append('I-DATE')
 
-            elif strfile.find('location'):
+            elif strfile.find('location') != -1:
                 aryLine.append('B-LOC')
+            
+            elif strfile.find('job') != -1:
+                aryLine.append('B-JOB')
             
             aryUpdateFeature.append("\t".join(aryLine))
 
