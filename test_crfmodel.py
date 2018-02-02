@@ -6,7 +6,7 @@
 from itertools import chain
 import pycrfsuite
 import sklearn
-import hironsan_train 
+import make_crf_model 
 from sklearn.metrics import classification_report
 from sklearn.preprocessing import LabelBinarizer
 
@@ -18,7 +18,7 @@ if __name__ == '__main__':
 
     args = sys.argv
     
-    c = hironsan_train.CorpusReader('hironsan.txt')
+    c = make_crf_model.CorpusReader(args[1])
     train_sents = c.iob_sents('train')
     test_sents = c.iob_sents('test')
 
@@ -26,12 +26,12 @@ if __name__ == '__main__':
     tagger.open('model.crfsuite')
 
     example_sent = test_sents[0]
-    if len(args) == 2:
-        example_sent = test_sents[int(args[1])]
+    if len(args) == 3:
+        example_sent = test_sents[int(args[2])]
 
     print(example_sent)
 
-    print(' '.join(hironsan_train.sent2tokens(example_sent)))
+    print(' '.join(make_crf_model.sent2tokens(example_sent)))
 
-    print("Predicted:", ' '.join(tagger.tag(hironsan_train.sent2features(example_sent))))
-    print("Correct:  ", ' '.join(hironsan_train.sent2labels(example_sent)))
+    print("Predicted:", ' '.join(tagger.tag(make_crf_model.sent2features(example_sent))))
+    print("Correct:  ", ' '.join(make_crf_model.sent2labels(example_sent)))

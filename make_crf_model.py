@@ -16,12 +16,17 @@ class CorpusReader(object):
             sent = []
             sents = []
             for line in f:
-                if line == '\n':
-                    sents.append(sent)
-                    sent = []
-                    continue
+                #print(line)
+                #if line == '\n':
+                #    sents.append(sent)
+                #    sent = []
+                #    continue
+                #morph_info = line.strip().split('\t')
+                #sent.append(morph_info)
                 morph_info = line.strip().split('\t')
                 sent.append(morph_info)
+                sents.append(sent)
+                sent = []
         train_num = int(len(sents) * 0.9)
         self.__train_sents = sents[:train_num]
         self.__test_sents = sents[train_num:]
@@ -150,12 +155,18 @@ if __name__ == '__main__':
     c = CorpusReader(args[1])
     train_sents = c.iob_sents('train')
     test_sents = c.iob_sents('test')
+
+    print("-----------------------")
     print(train_sents[0])
     print(test_sents[0])
-
+    print("-----------------------")
 
     X_train = [sent2features(s) for s in train_sents]
     y_train = [sent2labels(s) for s in train_sents]
+    print("-----------------------")
+    print(X_train)
+    print(y_train)
+    print("-----------------------")
 
     X_test = [sent2features(s) for s in test_sents]
     y_test = [sent2labels(s) for s in test_sents]
@@ -163,6 +174,10 @@ if __name__ == '__main__':
     trainer = pycrfsuite.Trainer(verbose=False)
 
     for xseq, yseq in zip(X_train, y_train):
+   #     print("-----------------------")
+   #     print(xseq)
+   #     print("-----------------------")
+   #     print(yseq)
         trainer.append(xseq, yseq)
 
     # 訓練して保存

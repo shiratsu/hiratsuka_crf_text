@@ -29,9 +29,12 @@ for strfile in filelist:
         lines = f.readlines()
 
         for line in lines:
+            line = line.strip()
             aryLine = line.split("\t")
 
             strWord = aryLine[0]
+            strFeature1 = aryLine[1]
+            strFeature2 = aryLine[2]
 
             if strfile.find('date') != -1:
                 #print(strWord)
@@ -49,11 +52,19 @@ for strfile in filelist:
                     aryLine.append('I-DATE')
 
             elif strfile.find('location') != -1:
-                aryLine.append('B-LOC')
+                if strFeature1 == '名詞' and strFeature2 == '固有名詞':
+                    aryLine.append('B-LOC')
+                else:
+                    aryLine.append('B-OTHER')
+
             
             elif strfile.find('job') != -1:
-                aryLine.append('B-JOB')
-            
+                if strFeature1 == '名詞' and strFeature2 == '一般':
+                    aryLine.append('B-JOB')
+                else:
+                    aryLine.append('B-OTHER')
+           
+            print(aryLine)
             aryUpdateFeature.append("\t".join(aryLine))
 
         with open(strWriteFile,'w') as fw:
