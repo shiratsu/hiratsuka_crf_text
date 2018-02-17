@@ -3,6 +3,9 @@
 import MeCab
 import os
 import glob
+import sys
+
+args = sys.argv
 
 mecab = MeCab.Tagger ('-d /usr/local/lib/mecab/dic/mecab-ipadic-neologd')
 mecab.parse('')
@@ -20,6 +23,7 @@ def makePreCrfData(mecab,sentence):
         mergeList = nodeParts+aryFeature
         arySentence.append(mergeList)
 
+    arySentence.append([])
     return arySentence
 
 # ディレクトリのファイル一覧を取得

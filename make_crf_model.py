@@ -156,17 +156,17 @@ if __name__ == '__main__':
     train_sents = c.iob_sents('train')
     test_sents = c.iob_sents('test')
 
-    print("-----------------------")
-    print(train_sents[0])
-    print(test_sents[0])
-    print("-----------------------")
+   # print("-----------------------")
+   # print(train_sents[0])
+   # print(test_sents[0])
+   # print("-----------------------")
 
     X_train = [sent2features(s) for s in train_sents]
     y_train = [sent2labels(s) for s in train_sents]
-    print("-----------------------")
-    print(X_train)
-    print(y_train)
-    print("-----------------------")
+   # print("-----------------------")
+   # print(X_train)
+   # print(y_train)
+   # print("-----------------------")
 
     X_test = [sent2features(s) for s in test_sents]
     y_test = [sent2labels(s) for s in test_sents]
@@ -181,4 +181,4 @@ if __name__ == '__main__':
         trainer.append(xseq, yseq)
 
     # 訓練して保存
-    trainer.train('model.crfsuite')
+    trainer.train(args[2]+'.crfsuite')

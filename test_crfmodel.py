@@ -23,7 +23,7 @@ if __name__ == '__main__':
     test_sents = c.iob_sents('test')
 
     tagger = pycrfsuite.Tagger()
-    tagger.open('model.crfsuite')
+    tagger.open(args[3]+'.crfsuite')
 
     example_sent = test_sents[0]
     if len(args) == 3:

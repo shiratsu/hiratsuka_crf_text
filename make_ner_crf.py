@@ -40,16 +40,16 @@ for strfile in filelist:
                 #print(strWord)
                 aryLine.append('B-DATE')
             
-            elif strfile.find('day') != -1 or strfile.find('month') != -1 or strfile.find('year') != -1:
-                
-                #print(strWord)
-                if strWord not in ['がつ','/','に','ち']:
-                    aryLine.append('B-DATE')
-                else:
-                    print("--------------------------")
-                    print("I-DATE")
-                    print(strWord)
-                    aryLine.append('I-DATE')
+            #elif strfile.find('day') != -1 or strfile.find('month') != -1 or strfile.find('year') != -1:
+            #    
+            #    #print(strWord)
+            #    if strWord not in ['がつ','/','に','ち']:
+            #        aryLine.append('B-DATE')
+            #    else:
+            #        print("--------------------------")
+            #        print("I-DATE")
+            #        print(strWord)
+            #        aryLine.append('I-DATE')
 
             elif strfile.find('location') != -1:
                 if strFeature1 == '名詞' and strFeature2 == '固有名詞':
@@ -64,6 +64,28 @@ for strfile in filelist:
                 else:
                     aryLine.append('B-OTHER')
            
+            elif strfile.find('yen_money_sentence') != -1:
+                matchOB = re.match('\d+' , strWord)
+                if matchOB:
+                    print(matchOB.group())  # 'ca'
+                
+                if strWord == '時給' or strWord == '日給' or strWord == '月給':
+                    aryLine.append('B-MNYUNIT')
+                elif strWord in ['円']:
+                    aryLine.append('B-MONEY')
+                
+                elif strWord in ['円']:
+                    aryLine.append('B-MONEY')
+                
+                elif strWord in ['越え','たい','は','以上']:
+                    aryLine.append('I-MONEY')
+                
+                elif matchOB:
+                    aryLine.append('B-MONEY')
+                
+                else:
+                    aryLine.append('B-OTHER')
+
             print(aryLine)
             aryUpdateFeature.append("\t".join(aryLine))
 

@@ -17,6 +17,14 @@ yearSentenceList = []
 yenSentenceList = []
 monthDaySentenceList = []
 yearMonthDaySentenceList = []
+daymoneyList = ['日給']
+timemoneyList = ['時給']
+monthmoneyList = ['月給']
+dayyenList = []
+monthyenList = []
+timeyenList = []
+yenMoneySentenceList = []
+
 
 with open('txt/job_list.txt', 'r') as f:
     lines = f.readlines() # 1行毎にファイル終端まで全て読む(改行文字も含まれる)
@@ -164,3 +172,76 @@ with open('txt/day_month.txt', 'r') as f:
 
 #-------------------------------------------------------------------
 # 円 
+for i in range(500,1200):
+    timeyenList.append(i)
+
+for i in range(9000,10000):
+    dayyenList.append(i)
+
+for i in range(100000,100500):
+    monthyenList.append(i)
+
+
+with open('txt/money.txt', 'r') as f:
+    lines = f.readlines() # 1行毎にファイル終端まで全て読む(改行文字も含まれる)
+    for line in lines:
+        strLine = line.strip()
+
+        # MONEYを置換
+        for money in daymoneyList:
+            strText = strLine.replace('MONEY',money)
+
+            for yen in dayyenList:
+                strYenMoney = strText.replace('YEN',str(yen))
+                if strYenMoney != '':
+                    yenMoneySentenceList.append(strYenMoney)
+
+
+    # ファイルに書き込む
+    with open('sentence_txt/day_yen_money_sentence.txt', 'w') as fw:
+        # 書き込み
+        fw.write('\n'.join(yenMoneySentenceList))
+
+yenMoneySentenceList = []
+
+with open('txt/money.txt', 'r') as f:
+    lines = f.readlines() # 1行毎にファイル終端まで全て読む(改行文字も含まれる)
+    for line in lines:
+        strLine = line.strip()
+
+        # MONEYを置換
+        for money in monthmoneyList:
+            strText = strLine.replace('MONEY',money)
+
+            for yen in monthyenList:
+                strYenMoney = strText.replace('YEN',str(yen))
+                if strYenMoney != '':
+                    yenMoneySentenceList.append(strYenMoney)
+
+
+    # ファイルに書き込む
+    with open('sentence_txt/month_yen_money_sentence.txt', 'w') as fw:
+        # 書き込み
+        fw.write('\n'.join(yenMoneySentenceList))
+
+yenMoneySentenceList = []
+
+with open('txt/money.txt', 'r') as f:
+    lines = f.readlines() # 1行毎にファイル終端まで全て読む(改行文字も含まれる)
+    for line in lines:
+        strLine = line.strip()
+
+        # MONEYを置換
+        for money in timemoneyList:
+            strText = strLine.replace('MONEY',money)
+
+            for yen in timeyenList:
+                strYenMoney = strText.replace('YEN',str(yen))
+                if strYenMoney != '':
+                    yenMoneySentenceList.append(strYenMoney)
+
+
+    # ファイルに書き込む
+    with open('sentence_txt/time_yen_money_sentence.txt', 'w') as fw:
+        # 書き込み
+        fw.write('\n'.join(yenMoneySentenceList))
