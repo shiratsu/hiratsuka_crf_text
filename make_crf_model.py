@@ -17,16 +17,16 @@ class CorpusReader(object):
             sents = []
             for line in f:
                 #print(line)
-                #if line == '\n':
-                #    sents.append(sent)
-                #    sent = []
-                #    continue
+                if line == '\n':
+                    sents.append(sent)
+                    sent = []
+                    continue
                 #morph_info = line.strip().split('\t')
                 #sent.append(morph_info)
                 morph_info = line.strip().split('\t')
                 sent.append(morph_info)
-                sents.append(sent)
-                sent = []
+                #sents.append(sent)
+                #sent = []
         train_num = int(len(sents) * 0.9)
         self.__train_sents = sents[:train_num]
         self.__test_sents = sents[train_num:]

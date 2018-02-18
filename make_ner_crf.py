@@ -33,8 +33,11 @@ for strfile in filelist:
             aryLine = line.split("\t")
 
             strWord = aryLine[0]
-            strFeature1 = aryLine[1]
-            strFeature2 = aryLine[2]
+            strFeature1 = ''
+            strFeature2 = ''
+            if len(aryLine) >= 2:
+                strFeature1 = aryLine[1]
+                strFeature2 = aryLine[2]
 
             if strfile.find('date') != -1:
                 #print(strWord)
@@ -84,7 +87,8 @@ for strfile in filelist:
                     aryLine.append('B-MONEY')
                 
                 else:
-                    aryLine.append('B-OTHER')
+                    if len(aryLine) >= 2:
+                        aryLine.append('B-OTHER')
 
             print(aryLine)
             aryUpdateFeature.append("\t".join(aryLine))

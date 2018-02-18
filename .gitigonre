@@ -1,5 +1,5 @@
 *.pyc
-*.crf*
+*.crfsuite
 *.txt
 sentence_txt/*
 txt/*
