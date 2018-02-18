@@ -26,7 +26,7 @@ if __name__ == '__main__':
     tagger.open(args[3]+'.crfsuite')
 
     example_sent = test_sents[0]
-    if len(args) == 3:
+    if len(args) == 4:
         example_sent = test_sents[int(args[2])]
 
     print(example_sent)

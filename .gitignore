@@ -1,0 +1,5 @@
+*.pyc
+*.crf*
+*.txt
+sentence_txt/*
+txt/*
