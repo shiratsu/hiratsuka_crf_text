@@ -68,7 +68,7 @@ for strfile in filelist:
                     aryLine.append('B-OTHER')
            
             elif strfile.find('yen_money_sentence') != -1:
-                matchOB = re.match('\d+' , strWord)
+                matchOB = re.match('\d{2,}' , strWord)
                 if matchOB:
                     print(matchOB.group())  # 'ca'
                 

@@ -30,8 +30,12 @@ if __name__ == '__main__':
         example_sent = test_sents[int(args[2])]
 
     print(example_sent)
-
+    print("-------------------------")
     print(' '.join(make_crf_model.sent2tokens(example_sent)))
+    print("-------------------------")
+    print(make_crf_model.sent2features(example_sent))
+    print("-------------------------")
+    print("-------------------------")
 
     print("Predicted:", ' '.join(tagger.tag(make_crf_model.sent2features(example_sent))))
     print("Correct:  ", ' '.join(make_crf_model.sent2labels(example_sent)))
