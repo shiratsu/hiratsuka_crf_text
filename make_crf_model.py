@@ -17,7 +17,9 @@ class CorpusReader(object):
             sents = []
             for line in f:
                 #print(line)
-                if line == '\n':
+                if line == '\n' or line == '\r\n':
+                    #print(sent)
+                    #print("%%%%%%%%%%%%%%%%%%%%%%%")
                     sents.append(sent)
                     sent = []
                     continue
@@ -28,6 +30,8 @@ class CorpusReader(object):
                 #sents.append(sent)
                 #sent = []
         train_num = int(len(sents) * 0.9)
+        #print(sents)
+        #print("-----------------------")
         self.__train_sents = sents[:train_num]
         self.__test_sents = sents[train_num:]
 
@@ -133,7 +137,6 @@ def word2features(sent, i):
         ])
     else:
         features.append('EOS')
-
     return features
 
 
@@ -156,17 +159,17 @@ if __name__ == '__main__':
     train_sents = c.iob_sents('train')
     test_sents = c.iob_sents('test')
 
-   # print("-----------------------")
-   # print(train_sents[0])
-   # print(test_sents[0])
-   # print("-----------------------")
+    #print("-----------------------")
+    #print(train_sents)
+    #print(test_sents)
+    #print("-----------------------")
 
     X_train = [sent2features(s) for s in train_sents]
     y_train = [sent2labels(s) for s in train_sents]
-   # print("-----------------------")
-   # print(X_train)
-   # print(y_train)
-   # print("-----------------------")
+    #print("-----------------------")
+    #print(X_train)
+    #print(y_train)
+    #print("-----------------------")
 
     X_test = [sent2features(s) for s in test_sents]
     y_test = [sent2labels(s) for s in test_sents]
@@ -174,11 +177,12 @@ if __name__ == '__main__':
     trainer = pycrfsuite.Trainer(verbose=False)
 
     for xseq, yseq in zip(X_train, y_train):
-   #     print("-----------------------")
-   #     print(xseq)
-   #     print("-----------------------")
-   #     print(yseq)
-        trainer.append(xseq, yseq)
+        print("X-----------------------")
+        print(xseq)
+        print("Y-----------------------")
+        print(yseq)
+        if len(xseq) > 0 and len(yseq) > 0:
+            trainer.append(xseq, yseq)
 
     # 訓練して保存
     trainer.train(args[2]+'.crfsuite')

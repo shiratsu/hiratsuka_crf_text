@@ -87,7 +87,7 @@ print(sent)
 print("--------------")
 print(tokenlist)
 print("--------------")
-print(make_crf_model.sent2features(sent))
+#print(make_crf_model.sent2features(sent))
 print("--------------")
 print(predictlist)
 
